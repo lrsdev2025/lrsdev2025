@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá! meu é Leonardo Reis e sou iniciante no GitHub!
+## Meu objetivo aqui é aprimorar meus conhecimentos de programação em html, css e php, além de aprender python;
+### Estou no primeiro período da faculdade de rede no Institudo Infnet;👨‍🎓
+### Conto com a ajuda de todos e espero pode ajudar quando possível.😉
+* Linkedin: https://www.linkedin.com/in/leonardo-reis-da-silva-197b52347/
+
 
 <!--
 **lrsdev2025/lrsdev2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
